@@ -1,0 +1,14 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-size: 1, 8rem;
+  color: rgb(246, 6, 110);
+}
+
+h2 {
+  font-size: 0, 4rem;
+}
